@@ -3,7 +3,9 @@ package com.show.jam.hczx_show;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.smartydroid.android.starter.kit.app.StarterActivity;
+
+public class MainActivity extends StarterActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
